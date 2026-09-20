@@ -28,3 +28,9 @@ This project is fully open source, which means users can rest easy knowing that 
 What features does it have?:
 It has built in model swapping so you can rest easy knowing that you are saving tokens on every step. The agentic loop also pastes only the last output back in
 saving tokens and achieving almost equal performance.
+
+
+Where do i get the api key?:
+Go to https://aistudio.google.com and login with your google account.
+You mustn't post your api key or people online will drain all of the credits. Always keep your api key safe.
+WE CANNOT PROVIDE A DEMO API KEY BECAUSE OF SECURITY CONCERNS. Plus, any demo api key would instantly be drained, and even if i hid it behind my own server It would run out in a day or so.
