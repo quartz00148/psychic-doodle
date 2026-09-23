@@ -34,3 +34,5 @@ Where do i get the api key?:
 Go to https://aistudio.google.com and login with your google account.
 You mustn't post your api key or people online will drain all of the credits. Always keep your api key safe.
 WE CANNOT PROVIDE A DEMO API KEY BECAUSE OF SECURITY CONCERNS. Plus, any demo api key would instantly be drained, and even if i hid it behind my own server It would run out in a day or so.
+
+AS I HAVE SAID BEFORE: I CANNOT PROVIDE A DEMO API KEY. IT WOULD COST REAL MONEY AND BE HUGE SECURITY CONCERN. PLEASE GET YOUR OWN AT THE LINK ABOVE. IT TAKES ONLY A FEW MINUTES AND IS A RELATIVELY STREAMINED PROCESS.
