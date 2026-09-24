@@ -1,5 +1,13 @@
 Ai Agent Scaffold
 
+
+OK YOU WIN HERES A GOOGLE API KEY AQ.Ab8RN6JpwQhYXeQ4XYNxU2hdKWO3uQ-rcwiril0nc9GMclyobw
+KEEP ALL REQUESTS SHORT PLEASE
+I HAVE NO MONEY
+
+
+
+
 How it works:
 You put in your api key, and your browser directly queries gemini for steps on how to split your complicated task into minature tasks.
 For each minature task, the previous input is fed back into gemini, with the addition of the minature task.
